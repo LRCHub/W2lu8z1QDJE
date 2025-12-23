@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ローファイ・タイムズ",
+  "base_artist": "しーくん",
+  "createdAt": "2025-12-23T09:04:07.478820Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ローファイ・タイムズ",
+      "artist": "Doctrine Doctrine",
+      "has_synced": true,
+      "path": "select/01_ローファイ・タイムズ_Doctrine_Doctrine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ローファイ・タイムズ",
+      "artist": "しーくん",
+      "has_synced": false,
+      "path": "select/pl_01_ローファイ・タイムズ_しーくん.txt"
+    }
+  ]
+}
